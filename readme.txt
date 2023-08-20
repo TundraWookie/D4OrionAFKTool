@@ -8,3 +8,4 @@ Install Required Libraries: Open a command prompt or terminal window and run the
 Copy code below into the company prompt.
 pip install discord.py
 pip install pillow pygetwindow keyboard
+pip install Pillow
